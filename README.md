@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Project Overview:
-In this project we were asked to help Maria rework our analysis with a new dataset of student data which included a school budget column. Our task is to collect, prepare, summarize, drill down, and compare/ contrast data with a written analysis.  
+In this project we were asked to help Maria rework our analysis with a new dataset of student data which included a school budget column. Our task is to collect, prepare, summarize, drill down, and compare/ contrast data with a written analysis. Please view Student_Data_Challenge.ipynb for the deliverables. 
 
 ## Summary Review:
 After reviewing the data represeted here, there is a total of 14,830 students at 15 different schools. Six of these schools are charter schools the remaining nine are public schools.
